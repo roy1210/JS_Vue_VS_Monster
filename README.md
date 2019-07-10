@@ -1,6 +1,22 @@
 # VS Monster
+
+## Description
+
 Game for beat the monster.
 
-This app built by CDN of vue.js, not by vue-cli.
+**_DEMO:_**
 
-![preview](./vsmonster.jpg)
+<img src="./vsmonster.jpg" width="80%">
+
+## Usage
+
+Clone repo, open index.html by your browser
+(This is not created by Vue cli, It's working by CDN)
+
+## Licence
+
+[MIT](./LICENSE.txt)
+
+## Author
+
+[Shoe Kure](https://github.com/roy1210)
